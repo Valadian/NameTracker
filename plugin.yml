@@ -1,0 +1,4 @@
+name: NameLayer
+main: com.valadian.nametracker.NameTrackerPlugin
+version: 1.0.1
+author: Rourke750, Valadian
